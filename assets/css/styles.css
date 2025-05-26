@@ -1,11 +1,12 @@
-/* body {
-    background-image:url(../images/01-02-02_background-img.jpg);
-} */
-
 body {
-    background-image:url(/assets/images/01-02-02_background-img.jpg);
+    background-color: lightgrey;
+    background-image: url("../images/background-img.jpg");
 }
 
- p {
-    font-weight: bold
- }
+p {
+    font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
+}
